@@ -1,6 +1,6 @@
-## 👋 Hey everyone, welcome to the TUX Inc. Organization
+## 👋 Hey everyone, welcome to the Hownee Organization
 
-<img src="https://raw.githubusercontent.com/Tux-Inc/.github/main/.assets/tux.png" alt="Tux" align="right" width="200" height="200"/>
+<img src="https://raw.githubusercontent.com/Hownee/.github/main/.assets/hownee.png" alt="Tux" align="right" width="200" height="200"/>
 
 Every day the Hownee team is working on new projects.
 We are a group of students from Epitech, a french school of computer science.
